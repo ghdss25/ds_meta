@@ -1,0 +1,11 @@
+// routes sales 
+
+http://localhost:8080/sales/53/notification - link normal
+
+https://dsmeta-gusta.herokuapp.com/sales?minDate=2021-11-01&maxDate=2021-12-31
+
+// routes notification
+
+https://dsmeta-gusta.herokuapp.com/sales/53/notification 
+
+http://localhost:8080/sales?minDate=2021-11-01&maxDate=2021-12-31
